@@ -1,0 +1,17 @@
+#nav{
+    background-color: purple;
+    width:100%;
+    display:flex;
+    gap:1rem;
+    padding:1rem;
+    flex:1;
+}
+.nav-content{
+    background-color: rgb(189, 50, 50);
+    flex:1;
+    padding:1rem;
+}
+
+#section2{
+    flex:3;
+}
